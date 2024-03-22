@@ -1,0 +1,42 @@
+{
+  "name": "voluptassed",
+  "version": "1.0.0",
+  "author": "PatrickGaylord",
+  "description": "Command-line tool to query the blockchain for a variety of cryptos. View blocks, transactions, and accounts (where applicable).",
+  "keywords": [
+    "aut",
+    "btc",
+    "sit",
+    "dash",
+    "doge",
+    "sit",
+    "eth",
+    "aut",
+    "nisi",
+    "litecoin",
+    "ipsa",
+    "monero",
+    "zec",
+    "porro",
+    "alias",
+    "eligendi",
+    "cryptocurrency"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CharleyKuhlman/voluptassed.git"
+  },
+  "license": "GPL-3.0",
+  "bin": {
+    "blocke": "bin/blocke.js"
+  },
+  "dependencies": {
+    "cli-spinner": "^0.2.6",
+    "command-line-args": "^4.0.6",
+    "command-line-commands": "^2.0.1",
+    "command-line-usage": "^4.0.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "underscore": "^1.8.3"
+  }
+}
